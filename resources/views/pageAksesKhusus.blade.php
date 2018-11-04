@@ -1,0 +1,1 @@
+Halaman  ini hanya untuk admin
